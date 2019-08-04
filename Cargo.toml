@@ -1,0 +1,7 @@
+[package]
+name = "rust-project-euler"
+version = "0.0.1"
+authors = ["Lance"]
+edition = "2018"
+
+[dependencies]
